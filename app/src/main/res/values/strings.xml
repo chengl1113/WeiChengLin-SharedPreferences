@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeiChengLin-SharedPreferences</string>
+    <string name="saved_text_key">saved_text_key</string>
+    <string name="saved_image_key">saved_image_key</string>
+</resources>
